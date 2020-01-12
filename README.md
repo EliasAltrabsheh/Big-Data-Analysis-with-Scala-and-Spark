@@ -25,11 +25,11 @@ Learning Outcomes. By the end of this course you will be able to:
 
 *Parallel Programming - Week 1 :* We motivate parallel programming and introduce the basic constructs for building parallel programs on JVM and Scala. Examples such as array norm and Monte Carlo computations illustrate these concepts. We show how to estimate work and depth of parallel programs as well as how to benchmark the implementations.
 
-*Basic Task Parallel Algorithms - Week 2 :*We continue with examples of parallel algorithms by presenting a parallel merge sort. We then explain how operations such as map, reduce, and scan can be computed in parallel. We present associativity as the key condition enabling parallel implementation of reduce and scan.
+* Basic Task Parallel Algorithms - Week 2 : *We continue with examples of parallel algorithms by presenting a parallel merge sort. We then explain how operations such as map, reduce, and scan can be computed in parallel. We present associativity as the key condition enabling parallel implementation of reduce and scan.
 
-*Data-Parallelism - Week 3 :* We show how data parallel operations enable the development of elegant data-parallel code in Scala. We give an overview of the parallel collections hierarchy, including the traits of splitters and combiners that complement iterators and builders from the sequential case.
+* Data-Parallelism - Week 3 : * We show how data parallel operations enable the development of elegant data-parallel code in Scala. We give an overview of the parallel collections hierarchy, including the traits of splitters and combiners that complement iterators and builders from the sequential case.
 
-*Data Structures for Parallel Computing - Week 4 :* We give a glimpse of the internals of data structures for parallel computing, which helps us understand what is happening under the hood of parallel collections.
+* Data Structures for Parallel Computing - Week 4 : * We give a glimpse of the internals of data structures for parallel computing, which helps us understand what is happening under the hood of parallel collections.
 
 
 **Assignment deatails are broken down in each week's folder.**
